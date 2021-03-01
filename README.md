@@ -1,5 +1,9 @@
 # multiviewtype-kt
 
+[![Platform](https://img.shields.io/badge/platform-Android-green)](https://github.com/yumtaufikhidayat/multiviewtype-kt/blob/main/build.gradle)
+[![Language](https://img.shields.io/badge/language-Kotlin-blue)](https://github.com/yumtaufikhidayat/multiviewtype-kt/blob/main/build.gradle)
+[![MinSdk](https://img.shields.io/badge/minsdk-23-red)](https://github.com/yumtaufikhidayat/multiviewtype-kt/blob/main/build.gradle)
+
 A simple multi view type of recyclerview using Kotlin and View Binding. This application using:
 - Material design
 - Kotlin programming language
