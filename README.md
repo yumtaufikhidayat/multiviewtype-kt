@@ -6,7 +6,7 @@
 
 A simple multi view type of recyclerview using Kotlin and View Binding. This application using:
 - Material design
-- Kotlin programming language
+- Kotlin
 - Recyclerview
 - ViewBinding
 
