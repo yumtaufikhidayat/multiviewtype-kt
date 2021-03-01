@@ -32,7 +32,7 @@ class MainAdapter(private val data: List<Any>) : RecyclerView.Adapter<RecyclerVi
                 )
             )
 
-            else -> throw throw IllegalArgumentException("Undefined view type")
+            else -> throw IllegalArgumentException("Undefined view type")
         }
     }
 

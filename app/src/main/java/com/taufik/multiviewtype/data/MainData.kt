@@ -8,17 +8,23 @@ class MainData {
     companion object {
         val category: List<Any>
             get() = mutableListOf(
-                "Foods",
-                Item(R.drawable.ic_android, "Chicken Curry"),
-                Item(R.drawable.ic_android, "Hot dog"),
-                Item(R.drawable.ic_android, "Pasta"),
-                Item(R.drawable.ic_android, "Spaghetti"),
-                Item(R.drawable.ic_android, "Hamburger"),
+                "Appetizer",
+                Item(R.drawable.ic_foods, "Chicken Enchilada Dip"),
+                Item(R.drawable.ic_foods, "Cowboy Caviar"),
+                Item(R.drawable.ic_foods, "Scallion and Caramelized Onion Dip"),
+                Item(R.drawable.ic_foods, "Crockpot Honey Garlic Little Smokies"),
+                Item(R.drawable.ic_foods, "Cheesy Sausage Dip"),
 
-                "Drinks",
-                Item(R.drawable.ic_android, "Water"),
-                Item(R.drawable.ic_android, "Lemon Tea"),
-                Item(R.drawable.ic_android, "Coffee")
+                "Main Course",
+                Item(R.drawable.ic_foods, "Chicken Curry"),
+                Item(R.drawable.ic_foods, "Grand Aioli"),
+                Item(R.drawable.ic_foods, "Fried Rice"),
+
+                "Dessert",
+                Item(R.drawable.ic_foods, "Dadar Gulung"),
+                Item(R.drawable.ic_foods, "American Pie"),
+                Item(R.drawable.ic_foods, "Baklava"),
+                Item(R.drawable.ic_foods, "Gelato")
             )
     }
 }
